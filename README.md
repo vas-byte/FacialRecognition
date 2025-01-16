@@ -56,13 +56,15 @@ Create new firebase project
 Enable firebase authentication
 
 Create new user (this will be our administrator) - note: you can add "client users" from the admin application
-![]()
+![](https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/Instructions/New%20User.png)
 
 Copy the User ID
+![](https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/Instructions/UID.png)
 
 Enable firestore (database)
 
 Create a document following the schema below filling 'Full Name' and 'Your Email' with your details respectively
+![](https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/Instructions/Firestore.png)
 
 Enable firebase cloud storage
 
@@ -75,7 +77,7 @@ Enable firebase cloud functions
 [Connect both flutter apps in the Client and Admin folder to Firebase](https://firebase.google.com/docs/flutter/setup?platform=ios)
 
 Get the API key for firebase cloud messaging
-![]()
+![](https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/Instructions/FCM%20key.png)
 
 In ```messages.dart``` of the client app, replace ```'Authorization': 'key= Firebase Cloud Messaging API KEY GOES HERE'``` with the key above.
 
@@ -85,7 +87,7 @@ In ```chat.dart``` of the admin app, replace ```'Authorization': 'key= Firebase 
 
 Download the service account JSON from firebase
 
-![]()
+![](https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/Instructions/Service%20Account.png)
 
 Place it in the same directory as the Facial Recognition Utility folder
 
