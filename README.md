@@ -118,7 +118,49 @@ To start the utility
 To start either app, select a device, then type
 
 ```flutter run```
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### FaceAdmin
+
+#### **Dashboard**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/Dashboard.png" alt="Dashboard" height="400">
+
+#### **Check-in History**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/Check-in%20History.png" alt="Check-in History" height="400">
+
+#### **List of Users**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/Users.png" alt="List of Users" height="400">
+
+##### **User Info**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/User%20Info.png" alt="User Info" height="400">
+
+##### **Edit User**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/User%20Update.png" alt="Edit User" height="400">
+
+#### **QR Code Check-in Page**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/QR.png" alt="QR Code Check-in Page" height="400">
+
+#### **Manual Check-in**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/Manual%20Check-in.png" alt="Manual Check-in" height="400">
+
+#### **Messaging Functionality**  
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceAdmin/Chat.png" alt="Messaging Functionality" height="400">
+
+### FaceClient
+
+#### **Login**
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceClient/Login.png" height="400">
+
+#### **Dashboard**
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceClient/Dashboard.png" height="400">
+
+#### **Chat**
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceClient/Chat.png" height="400">
+
+#### **QR Code Scanner**
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceClient/QR%20Code%20Scanner.png" height="400">
+
+#### **Edit User**
+<img src="https://github.com/vas-byte/FacialRecognition/blob/main/Screenshots/FaceClient/User%20Edit.png" height="400">
 
