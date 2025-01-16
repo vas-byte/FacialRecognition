@@ -70,6 +70,8 @@ Enable firebase cloud storage
 
 Enable firebase cloud functions
 
+[Install the Trigger Email extension for firebase](https://firebase.google.com/docs/extensions/official/firestore-send-email)
+
 ### Firebase flutter (Apps)
 
 [Install the Firebase CLI](https://firebaseopensource.com/projects/firebase/firebase-tools/)
